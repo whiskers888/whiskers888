@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Junior Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I'm working on a backend in web applications and developing in the field of mobile development
 
